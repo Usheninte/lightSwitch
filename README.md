@@ -4,7 +4,7 @@ Just re-learning JS basics
 
 - - -
 
-## [View Demo](#)
+## [View Demo](https://usheninte.github.io/lightSwitch/index.html)
 
 Built by [Usheninte](http://about.me/usheninte)
 
