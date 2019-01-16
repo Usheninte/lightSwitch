@@ -1,10 +1,9 @@
-let button = document.querySelector('button');
-
-let bodySwitchColor = document.querySelector('.body').style.color = 'f0f0f0';
-let bodySwitchBackgroundColor = document.querySelector('.body').style.backgroundColor = '#212121';
+var button = document.querySelector('button');
+var body = document.querySelector('body');
+var h3 = document.querySelector('h3');
 
 function OnOff() {
-	body.classList.toggle('.body');
+	body.classList.toggle('switchBody');
 };
 
 button.addEventListener('click', OnOff);
